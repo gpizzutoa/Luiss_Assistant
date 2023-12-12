@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 import time
 import sys
-sys.path.append('C:/Users/Gianfranco Pizzuto/OneDrive/Escritorio/Assistant_1')
+sys.path.append('C:/Users/Gianfranco Pizzuto/OneDrive/Escritorio/REPOS/OpenAI/Luiss_Assistant_P')
 # Include other necessary imports
 
 # Assuming other functions (submit_message, get_response, wait_on_run, etc.) are defined here
