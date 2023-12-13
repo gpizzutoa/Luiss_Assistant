@@ -82,5 +82,5 @@ def main():
 
 
 if __name__ == "__main__":
-    st.title("Chatbot")
+    st.title("Luiss Assistant")
     main()
