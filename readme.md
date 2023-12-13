@@ -1,4 +1,4 @@
-# README for Python OpenAI Assistant Script
+# README for Luiss Assistant Script
 
 ## Overview
 This Python script runs a Streamlit Chatbot application that can connect directly with an already created assistant from the openAI Platform
@@ -6,11 +6,12 @@ This Python script runs a Streamlit Chatbot application that can connect directl
 ## Requirements
 - Python 3.x
 - `openai` Python package
+- `streamlit` Python package
 
 ## Installation
-1. Install the OpenAI Python package:
+1. Install the OpenAI and streamlit Python packages:
    ```bash
-   pip install openai
+   pip install openai streamlit
    ```
 
 2. Clone or download this script to your local machine.
