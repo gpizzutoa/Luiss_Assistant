@@ -2,10 +2,10 @@ import streamlit as st
 from openai import OpenAI
 import time
 import sys
-sys.path.append('C:/Users/Gianfranco Pizzuto/OneDrive/Escritorio/REPOS/OpenAI/Luiss_Assistant_P')
-# Include other necessary imports
+sys.path.append('C:/.') #append path to your constants.py file if it is not in the same REPO
 
-# Assuming other functions (submit_message, get_response, wait_on_run, etc.) are defined here
+
+
 from constants import client, assistant_id
 
 def submit_message(assistant_id, thread, user_message):
